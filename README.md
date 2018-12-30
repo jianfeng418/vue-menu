@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+![Image message](Animation.gif)
 参数说明
 <table>
 <tr>
