@@ -1,4 +1,4 @@
-# vue-menu# vmenu
+# vmenu
 
 > A Vue.js project
 
