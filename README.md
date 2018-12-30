@@ -3,6 +3,17 @@
 > A Vue.js project
 
 ![Image message](Animation.gif)
+Usage 
+NPM
+```
+npm install vue-menu-jf --save
+```
+```
+import vMenu from 'vue-menu-jf'
+Vue.use(vMenu)
+this.$menu(event,{list:menuList,ulClass:class})
+```
+
 参数说明
 <table>
 <tr>
